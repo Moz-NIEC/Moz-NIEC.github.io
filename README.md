@@ -1,2 +1,2 @@
-# Moz-NIEC.github.io
+# Moz-NIEC
 Website for Mozilla NIEC Ignited Minds
